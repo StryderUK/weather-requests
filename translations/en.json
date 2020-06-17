@@ -1,0 +1,31 @@
+{
+	"LOADING": "Loading &hellip;",
+
+	"TODAY": "Today",
+	"TOMORROW": "Tomorrow",
+	"DAYAFTERTOMORROW": "In 2 days",
+	"RUNNING": "Ends in",
+	"EMPTY": "No upcoming events.",
+
+	"WEEK": "Week {weekNumber}",
+
+	"N": "N",
+	"NNE": "NNE",
+	"NE": "NE",
+	"ENE": "ENE",
+	"E": "E",
+	"ESE": "ESE",
+	"SE": "SE",
+	"SSE": "SSE",
+	"S": "S",
+	"SSW": "SSW",
+	"SW": "SW",
+	"WSW": "WSW",
+	"W": "W",
+	"WNW": "WNW",
+	"NW": "NW",
+	"NNW": "NNW",
+
+	"FEELS": "Feels like",
+	"PRECIP": "Precipitation"
+}
